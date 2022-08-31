@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AirPod Pro",
+      "price": 80,
+      "image": "/assets/product image/airpods.png"
+    },
+    {
+      "id": 2,
+      "title": "IPhone 13 Mini",
+      "price": 670,
+      "image": "/assets/product image/iphone13mini.jfif"
+    },
+    {
+      "id": 3,
+      "title": "IPhone 11",
+      "price": 600,
+      "image": "/assets/product image/iphone11.jpg"
+    },
+    {
+      "id": 4,
+      "title": "IPhone 12",
+      "price": 790,
+      "image": "/assets/product image/iphone12.jpg"
+    },
+    {
+      "id": 5,
+      "title": "IPhone 13",
+      "price": 850,
+      "image": "/assets/product image/iphone13.jpg"
+    },
+    {
+      "id": 6,
+      "title": "IPhone SE",
+      "price": 500,
+      "image": "/assets/product image/iphoneSE.jpg"
+    },
+    {
+      "id": 7,
+      "title": "IPhone 13 Pro",
+      "price": 940,
+      "image": "/assets/product image/iphone-13pro.jfif"
+    },
+    {
+      "id": 8,
+      "title": "IPad Mini",
+      "price": 500,
+      "image": "/assets/product image/ipadmini.jfif"
+    },
+    {
+      "id": 9,
+      "title": "IPad Air",
+      "price": 760,
+      "image": "/assets/product image/ipadair.png"
+    }
+  ]
+}
